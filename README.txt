@@ -6,7 +6,7 @@ Get the solution for quadratic equation solution.
 The coefficients of the quadratic polynomial should be read.
 (b) When a user presses the key <c> or <C>, the program will print out
 "Quadratic equation will be calculated, the results are: "
-and the results will be given. The real as well as the complex solution should be oered (see Note).
+and the results will be given. The real as well as the complex solution should be offered .
 (c) When a user presses the button <w> or <W>, the program will print out
 "The program is waiting".
 Within the wait state the program has to execute a loop that terminates after a counter reaches a
