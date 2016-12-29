@@ -1,9 +1,9 @@
 # Quadratic_equation_Calculator
 Get the solution for quadratic equation solution.
+
 (a) When a user presses the key <r> or <R>, the program will print out
 "Please input the coefficients".
-The coecients of the quadratic polynomial should be read.
-1 / 3Übung I (Lecture 1-3) - WiSe 2015/2016 C++ BAS
+The coefficients of the quadratic polynomial should be read.
 (b) When a user presses the key <c> or <C>, the program will print out
 "Quadratic equation will be calculated, the results are: "
 and the results will be given. The real as well as the complex solution should be oered (see Note).
